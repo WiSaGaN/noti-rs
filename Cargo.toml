@@ -1,0 +1,9 @@
+[package]
+name = "noti"
+version = "0.1.0"
+authors = ["Wangshan Lu <wisagan@gmail.com>"]
+
+[dependencies]
+clap = "2.20"
+hyper = "0.10"
+hyper-native-tls = "0.2"
