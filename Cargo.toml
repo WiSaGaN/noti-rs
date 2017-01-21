@@ -7,3 +7,5 @@ authors = ["Wangshan Lu <wisagan@gmail.com>"]
 clap = "2.20"
 hyper = "0.10"
 hyper-native-tls = "0.2"
+serde_json = "0.8"
+simple-error = "0.1"
